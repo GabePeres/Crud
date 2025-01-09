@@ -1,0 +1,18 @@
+<h3>Cadastrar Pessoa</h3>
+<div class="form-container">
+    <input type="text"
+           placeholder="Nome"
+           [(ngModel)]="nomeAdicionar"
+           (keyup.enter)="adicionarPessoa()">
+    <input type="text"
+           placeholder="Sobrenome"
+           [(ngModel)]="sobreNomeAdicionar"
+           (keyup.enter)="adicionarPessoa()">
+    <input type="text"
+           placeholder="Idade"
+           [(ngModel)]="idadeAdicionar"
+           (keyup.enter)="adicionarPessoa()">
+
+    <button type="submit" class="btn btn-success">Confirmar</button>
+    <button type="button" class="btn btn-link" (click)="irParaLista()">Cancelar</button>
+</div>

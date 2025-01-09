@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\FrontAngular\\src",
+    "\\FrontAngular\\src\\app",
+    "\\FrontAngular\\src\\app\\models",
+    "\\WebCRUD",
+    "\\WebCRUD\\Controllers",
+    "\\WebCRUD\\Dados",
+    "\\WebCRUD\\Migrations",
+    "\\WebCRUD\\Models",
+    "\\WebCRUD\\Properties"
+  ],
+  "SelectedNode": "\\WebCRUD\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}

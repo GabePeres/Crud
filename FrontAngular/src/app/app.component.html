@@ -1,0 +1,65 @@
+<h1>Cadastro de Pessoas - Viasoft Korp </h1>
+<div class="container">
+    <div class="form-container" *ngIf="exibeFormularioCadastro">
+        <h3>Cadastro</h3>
+        <input type="text"
+               placeholder="Nome"
+               [(ngModel)]="nomeAdicionar">
+        <input type="text"
+               placeholder="Sobrenome"
+               [(ngModel)]="sobreNomeAdicionar">
+        <input type="text"
+               placeholder="Idade"
+               [(ngModel)]="idadeAdicionar">
+
+        <div class="button-group">
+            <button class="btn-cadastrar" (click)="adicionarPessoa()">Cadastrar</button>
+            <button class="btn-cancelar" (click)="limparCampos()">Cancelar</button>
+        </div>
+    </div>
+
+    <div class="form-editar" *ngIf="exibeFormularioEditar">
+        <h3>Editar</h3>
+        <input type="text"
+               placeholder="Nome"
+               [(ngModel)]="nomeAtualizar">
+        <input type="text"
+               placeholder="Sobrenome"
+               [(ngModel)]="sobreNomeAtualizar">
+        <input type="text"
+               placeholder="Idade"
+               [(ngModel)]="idadeAtualizar">
+
+        <div class="button-group">
+            <button class="btn-salvar" (click)="editarPessoa()">Salvar</button>
+            <button class="btn-cancelar" (click)="cancelaEdit()">Cancelar</button>
+        </div>
+    </div>
+
+    <div class="list-container">
+        <h3>Pessoas </h3>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Nome</th>
+                    <th>Sobrenome</th>
+                    <th>Idade</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr *ngFor="let pessoa of pessoas$ | async"
+                    (dblclick)="obterDados( pessoa )">
+                    <td>{{ pessoa.id }}</td>
+                    <td>{{ pessoa.nome }}</td>
+                    <td>{{ pessoa.sobreNome }}</td>
+                    <td>{{ pessoa.idade }}</td>
+                    <td>
+                        <mat-icon class="icon edit-icon" (click)="obterDados( pessoa )">edit</mat-icon>
+                        <mat-icon class="icon delete-icon" (click)="excluirPessoa( pessoa.id )">delete</mat-icon>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>

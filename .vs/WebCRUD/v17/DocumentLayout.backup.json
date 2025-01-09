@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\dev\\crud2\\WebCRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\dev\\crud2\\WebCRUD\\WebCRUD\\Migrations\\20250101182600_Criacao-Inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebCRUD\\Migrations\\20250101182600_Criacao-Inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\dev\\crud2\\WebCRUD\\FrontAngular\\src\\app\\app.component.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FrontAngular\\src\\app\\app.component.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\dev\\crud2\\WebCRUD\\WebCRUD\\Models\\Pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebCRUD\\Models\\Pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\dev\\crud2\\WebCRUD\\WebCRUD\\Controllers\\PessoasController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebCRUD\\Controllers\\PessoasController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\dev\\crud2\\WebCRUD\\WebCRUD\\Dados\\Contexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebCRUD\\Dados\\Contexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\dev\\crud2\\WebCRUD\\WebCRUD\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebCRUD\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\dev\\crud2\\WebCRUD\\FrontAngular\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FrontAngular\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\dev\\crud2\\WebCRUD\\FrontAngular\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FrontAngular\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 189,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 150,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "app.component.scss",
+              "DocumentMoniker": "C:\\dev\\crud2\\WebCRUD\\FrontAngular\\src\\app\\app.component.scss",
+              "RelativeDocumentMoniker": "FrontAngular\\src\\app\\app.component.scss",
+              "ToolTip": "C:\\dev\\crud2\\WebCRUD\\FrontAngular\\src\\app\\app.component.scss",
+              "RelativeToolTip": "FrontAngular\\src\\app\\app.component.scss",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2025-01-07T18:52:38.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250101182600_Criacao-Inicial.cs",
+              "DocumentMoniker": "C:\\dev\\crud2\\WebCRUD\\WebCRUD\\Migrations\\20250101182600_Criacao-Inicial.cs",
+              "RelativeDocumentMoniker": "WebCRUD\\Migrations\\20250101182600_Criacao-Inicial.cs",
+              "ToolTip": "C:\\dev\\crud2\\WebCRUD\\WebCRUD\\Migrations\\20250101182600_Criacao-Inicial.cs",
+              "RelativeToolTip": "WebCRUD\\Migrations\\20250101182600_Criacao-Inicial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T18:52:13.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\dev\\crud2\\WebCRUD\\WebCRUD\\Models\\Pessoa.cs",
+              "RelativeDocumentMoniker": "WebCRUD\\Models\\Pessoa.cs",
+              "ToolTip": "C:\\dev\\crud2\\WebCRUD\\WebCRUD\\Models\\Pessoa.cs",
+              "RelativeToolTip": "WebCRUD\\Models\\Pessoa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T18:51:35.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Contexto.cs",
+              "DocumentMoniker": "C:\\dev\\crud2\\WebCRUD\\WebCRUD\\Dados\\Contexto.cs",
+              "RelativeDocumentMoniker": "WebCRUD\\Dados\\Contexto.cs",
+              "ToolTip": "C:\\dev\\crud2\\WebCRUD\\WebCRUD\\Dados\\Contexto.cs",
+              "RelativeToolTip": "WebCRUD\\Dados\\Contexto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T18:51:22.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\dev\\crud2\\WebCRUD\\WebCRUD\\Program.cs",
+              "RelativeDocumentMoniker": "WebCRUD\\Program.cs",
+              "ToolTip": "C:\\dev\\crud2\\WebCRUD\\WebCRUD\\Program.cs",
+              "RelativeToolTip": "WebCRUD\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T14:44:32.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PessoasController.cs",
+              "DocumentMoniker": "C:\\dev\\crud2\\WebCRUD\\WebCRUD\\Controllers\\PessoasController.cs",
+              "RelativeDocumentMoniker": "WebCRUD\\Controllers\\PessoasController.cs",
+              "ToolTip": "C:\\dev\\crud2\\WebCRUD\\WebCRUD\\Controllers\\PessoasController.cs",
+              "RelativeToolTip": "WebCRUD\\Controllers\\PessoasController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAFcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T10:57:36.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "app.component.ts",
+              "DocumentMoniker": "C:\\dev\\crud2\\WebCRUD\\FrontAngular\\src\\app\\app.component.ts",
+              "RelativeDocumentMoniker": "FrontAngular\\src\\app\\app.component.ts",
+              "ToolTip": "C:\\dev\\crud2\\WebCRUD\\FrontAngular\\src\\app\\app.component.ts",
+              "RelativeToolTip": "FrontAngular\\src\\app\\app.component.ts",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAawGQAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-01-04T15:37:10.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "app.component.html",
+              "DocumentMoniker": "C:\\dev\\crud2\\WebCRUD\\FrontAngular\\src\\app\\app.component.html",
+              "RelativeDocumentMoniker": "FrontAngular\\src\\app\\app.component.html",
+              "ToolTip": "C:\\dev\\crud2\\WebCRUD\\FrontAngular\\src\\app\\app.component.html",
+              "RelativeToolTip": "FrontAngular\\src\\app\\app.component.html",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-01-04T20:58:10.294Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
